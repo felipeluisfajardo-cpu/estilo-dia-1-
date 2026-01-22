@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Estilo Día - Fashion Intelligence & Climate Guide",
+  "description": "A premium fashion oracle providing real-time climate-based outfit recommendations and global trend reports for 2026.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
